@@ -14,11 +14,11 @@ In this project, the software and compilers we used are as follows：
 
 The functions of each code file are described as follows(.h and .cpp)：
 
-- data_generate_thread：thread function，continuous signal data is generated in this thread
-- chartview：mouse operation, including scroll wheel operation (screen zoom in or zoom out), mouse operation (screen zoom in, restore)
-- acousticwidget：
-- mainwindow：
-- main：
+- **data_generate_thread**：thread function，continuous signal data is generated in this thread.
+- **chartview**：mouse operation, including scroll wheel operation (screen zoom in or zoom out), mouse operation (screen zoom in, restore).
+- **acousticwidget**：receiving time domain data and dynamic display operations, including the three operations of removing the beginning data, connecting the end data, and displaying the whole data.
+- **mainwindow**：the function is directly associated with mainwindow.ui, call data_generate_thread, chartview, acousticwidget three functions to draw dynamic time-domain waveforms.
+- **main**：call mainwindow function.
 
 ## Example
 
