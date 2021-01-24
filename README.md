@@ -1,4 +1,6 @@
 # Time domain signal plot
+![](https://img.shields.io/badge/C++-95.6%-brightgreen) ![](https://img.shields.io/badge/qt-5-yellow.svg)![](https://img.shields.io/badge/release-v2021.1.24-red.svg)
+
 This project is about using the Qt platform to draw time-domain signal waveforms. It is worth noting that the dynamic waveforms are drawn here, that is, the multi-threading function in Qt is used.
 
 ## Software
