@@ -22,6 +22,10 @@ The functions of each code file are described as follows(.h and .cpp)：
 
 ## Example
 
+The running results of the project are as follows：
+
+![img](https://github.com/blank1996/Signal_Plot/blob/main/gif_show.gif)
+
 
 
 ## change log
