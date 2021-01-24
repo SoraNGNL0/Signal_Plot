@@ -28,4 +28,4 @@ The functions of each code file are described as follows(.h and .cpp)：
 
 V1(2021.1.24)
 
-- Upload code of program
+- Upload code of project
